@@ -7,7 +7,7 @@
       <url>/2017/09/21/a/</url>
       <content type="html"><![CDATA[<p>test test test </p>
 <a id="more"></a>
-<p>test test</p>
+<p>test test<br>abc</p>
 ]]></content>
       
         <categories>
